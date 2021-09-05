@@ -1,5 +1,5 @@
-This is my first file and My first project file keeping to start the pace and here i am on a new journey.
-For now I know:
-  1. Java
-  1. HTML
-  1. CSS
+This is my first file :smile: and My first project file keeping to start the pace :wink: and here i am on a new journey.:smiling_face_with_three_hearts:
+#  For now I know:
+  ## Java
+  ### HTML
+  #### CSS
